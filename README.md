@@ -1,6 +1,6 @@
 # python-project
 
-"""
+
     Avem aplicatia care tine stocul unui depozit (Cap 5-6). Efectuati urmatoarele imbunatatiri:
 	
 	Este necesar rezolvati minim 5 din punctele de mai jos:
@@ -46,5 +46,3 @@ Pretul de iesire va fi pretul din acel moment;
 
 9. Creati doua metode noi, diferite de cele facute la clasa, testatile si asigurativa ca functioneaza cu succes;
 
-
-""" #
