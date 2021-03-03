@@ -37,12 +37,5 @@ de exemplu fisa produsului) ; 	--SMTP--
 
 6. Imlementati o solutie cu ajutorul careia sa populati baza de date cu informatiile adecvate.
 
-7. Creati cateva view-uri cuprinzand rapoarte standard pe baza informatiilor din baza de date. --pentru avansati--
-
-8. Completati aplicatia astfel incat sa permita introducerea pretului la fiecare intrare si iesire.
-Pretul de iesire va fi pretul mediu ponderat (la fiecare tranzactie de intrare se va face o medie intre
-pretul produselor din stoc si al celor intrate ceea ce va deveni noul pret al produselor stocate).
-Pretul de iesire va fi pretul din acel moment;  
-
 9. Creati doua metode noi, diferite de cele facute la clasa, testatile si asigurativa ca functioneaza cu succes;
 
